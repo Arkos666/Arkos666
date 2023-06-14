@@ -12,3 +12,54 @@
 
 ¡Levemos anclas y a navegar en este emocionante mundo tecnológico! 🌊🚢
 
+
+## Mapa de habilidades
+
+A lo largo de mis viajes en el mar de la tecnología, he aprendido y dominado varias habilidades. Aquí tienes un mapa de esos tesoros que he recogido durante los años:
+
+### Lenguajes de programación
+- Unity
+- Cocos2D
+- libGDX
+- Java (Android)
+- Swift (iOS)
+- JavaScript
+- PHP
+- Python
+- C++
+- Visual Basic
+- VBA (Visual Basic for Applications)
+- SQL (MySQL, PostgreSQL, SQL Server)
+- MariaDB
+- Flutter
+
+### Herramientas y tecnologías de desarrollo
+- Django
+- Gestión de bases de datos (MySQL/MariaDB)
+- Control de versiones con Git
+- Desarrollo de juegos
+- Desarrollo móvil (Android e iOS)
+- Desarrollo web (JavaScript, PHP)
+
+### Seguridad y vigilancia
+- Seguridad física
+- Creación de instalaciones de vigilancia
+- Control de acceso
+- Cámaras de vigilancia
+- Tecnología térmica con sensor de movimiento
+- Videowalls
+
+### Redes
+- Redes
+- Switches
+- Firewalls
+- Soporte informático para instalaciones de vigilancia
+
+### Gestión y otros
+- Gestión de proyectos
+- Investigación y Desarrollo (I+D)
+- Creación de nuevos productos
+- Sistemas de monitorización
+- Migración a la nube (AWS)
+
+Como cualquier buen pirata, hay algunos tesoros que no he visitado en un tiempo y podrían estar un poco "oxidados". Sin embargo, cada uno de ellos ha contribuido a hacerme el navegante tecnológico que soy hoy. ¡Y estoy listo para desenterrarlos y pulirlos cuando sea necesario!
